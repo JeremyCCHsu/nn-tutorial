@@ -33,6 +33,16 @@
 相較之下，R 的社群雖然也很大，但業界似乎不太用。  
 (比如說，業界在分析 system log 、或作一些文件處理的時候，都會編寫 Python script 來作分析)
 
+
+# 我採用的 NN 套件
+[Tensorflow: Python API](https://www.tensorflow.org/versions/master/api_docs/python/index.html)  
+他的[教學](https://www.udacity.com/course/deep-learning--ud730)都是很實用的東西，修改他的 tutorial 來跑自己的東西其實際很有成就感了。  
+但是這其實沒辦法改變一個事實：就是Tensorflow 這個套件很難學。  
+他有另一個 wrapper API 叫 Keras，你可以去找來用  
+但我已經中 Tensorflow 的毒太深，回不去了
+
+
+
 # 其他
 這只是個起始點。  
 我一時半刻沒想到其他更適合的。  
@@ -42,3 +52,4 @@
 <br>
 <br>
 華山
+
